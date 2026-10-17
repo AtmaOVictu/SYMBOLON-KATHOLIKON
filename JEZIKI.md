@@ -4,7 +4,7 @@ This file is the seat's own first wordlist: it is judged by the same marks it te
 
 | Jezik / Language | Row | Mark | Priča / Witness |
 |---|---|---|---|
-| slovenščina | [README-SL.md](README-SL.md) | ⊢ | rojstni jezik telesa — the birth language of the body |
+| slovenščina | [README-SL.md](README-SL.md) | ⊢ | rodni jezik telesa — the birth language of the body |
 | English | [README.md](README.md) | ⊢ | the bridge, sealed with the seat |
 | vsak naslednji jezik / every next language | — | ⚠ | čaka pričo — waiting for its witness |
 

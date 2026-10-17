@@ -33,7 +33,7 @@ Orodni sedež nosi polna telesa zakonov ∧ priče: [verification-before-asserti
 
 Čez legendo orodni sedež nosi telesa, ki jih lahko poganjaš sam — deterministična, brez odvisnosti:
 
-[QUICKSTART.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/QUICKSTART.md) — razumi, preizkusi, spoznaj v ~5 min · [REPRODUCE.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/REPRODUCE.md) — ponovi živo izmero sam · [IZMERNI-PROTOKOL.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/IZMERNI-PROTOKOL.md) — predregistrirani protokol izmere (H0 je objavljiv prav tako) · wordlist-v0.15.json — živi wordlist: 57 besed, 49 ⊢ vsaka z dobesednim citatom, 8 ⚠ vsaka z izmerjenim razlogom · REGISTER-PADCEV.jsonl — prilivni register: vsak padec poimensko, vsaka brazgotina zapisana.
+[QUICKSTART.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/QUICKSTART.md) — razumi, preizkusi, spoznaj v ~5 min · [REPRODUCE.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/REPRODUCE.md) — ponovi živo izmero sam · [IZMERNI-PROTOKOL.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/IZMERNI-PROTOKOL.md) — predregistrirani protokol izmere (H0 je objavljiv prav tako) · wordlist-v0.15.json — živi wordlist: 57 besed, 49 ⊢ vsaka z dobesednim citatom, 8 ⚠ vsaka z izmerjenim razlogom · REGISTER-PADCEV.jsonl — samo-dopolnjevalni register: vsak padec poimensko, vsaka brazgotina zapisana.
 
 ## Absolutni test (vsak tujec, brez mreže)
 
@@ -49,11 +49,13 @@ Deterministično: pot sodbe ne vsebuje modela, samo primerjavo z zapečatenimi, 
 
 ## Kaj ta sedež ni
 
-Ni univerzalen jezik — je legenda. Univerzalnost tu ni izrečena; izmerjena je, po eni jezikovni vrstici: vsaka nosi ⚠, dokler je ne zapeče roden priča ⊢. Ta README je prvi wordlist — sodi ga ista znamenja, ki jih uči.
+Ni univerzalen jezik — je legenda. Univerzalnost tu ni izrečena; izmerjena je, po eni jezikovni vrstici: vsaka nosi ⚠, dokler je ne zapeče rodna priča ⊢. Ta README je prvi wordlist — sodi ga ista znamenja, ki jih uči.
 
 ## Brazgotina različice (L3)
 
 Legenda v1.2 · 17. 10. 2026 — poravnana z orodnim sedežem v1.2. Nova v tem rezu: pet zakonov zgoraj, vezi na izmerjene artefakte, ta vrstica brazgotine, datoteka LICENSE. Licenca legende ∧ predlog se s tem rezom spreminja: CC BY 4.0 → vse pravice pridržane — zapisano tu, ne narejeno tiho; kopije, prejete pod CC BY 4.0, ostajajo pod njo.
+
+Jezikovna preverba (isti dan, šiv pokazan): dva padca popravljena — »roden priča« → »rodna priča« (skladnost: priča je ženski samostalnik), »prilivni register« → »samo-dopolnjevalni register« (pomen: append-only). Vsebina legende je nespremenjena.
 
 ## Licenca
 
