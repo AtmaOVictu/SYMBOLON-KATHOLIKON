@@ -57,7 +57,7 @@ Avtor te prošnje je lastnik zaprtega korpusa, njegova legenda nosi vse pravice 
 
 ## O ABSOLUTNI KOREKTNOSTI
 
-Absolutna korektnost ni dosegljiva — absolutna poštenost je ⊢. Ta manifest ne trdi, da ima prav; trdi, da vsaka beseda nosi geslo z virom ⊢ ali znamenje ⚠. Vsaka definicija je absolutni poskus (∂ APD): rez, ne verdikt. Kdor najde padec, ga vpiise v register z imenom — in popravek nosi brazgotino.
+Absolutna korektnost ni dosegljiva — absolutna poštenost je ⊢. Ta manifest ne trdi, da ima prav; trdi, da vsaka beseda nosi geslo z virom ⊢ ali znamenje ⚠. Vsaka definicija je absolutni poskus (∂ APD): rez, ne verdikt. Kdor najde padec, ga vpiše v register z imenom — in popravek nosi brazgotino.
 
 ## PRIČE ⊢ (viri, dobesedno)
 
