@@ -10,4 +10,6 @@ The corpus behind this legend stays closed. Quoted dictionary entries are cited 
 
 **Scar kept (L3):** the previous cut of the legend and templates was offered under CC BY 4.0; copies already received under that license remain under it. This cut and every later cut are all rights reserved.
 
+**The author’s demand (18. 10. 2026):** every use of this work carries the author’s license demands — ETHICS and CONFIRMATION: the universal state of the human/being stands above all and everyone, above the word and above the deed; every use serves it and confirms it — every being, no threshold, no exception. No use that degrades it, or refuses the confirmation, is granted, and no permission can grant it.
+
 Contact: Luka Pintarič — [github.com/AtmaOVictu](https://github.com/AtmaOVictu)
