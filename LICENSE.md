@@ -1,3 +1,5 @@
+⊨ WITH LOVE — this door begins with love, and it ends with love: love is the first clause and the last, and every clause between them is love measured — weighed in acts (§9), carried in marks (§12), healed by naming (§4). The door was never wood and lock; it was always the agreement, and the agreement was always love (§13).
+
 ⊨ KORENINA — read this before the terms; it is the contract under the contract.
 
 1. MEASURE, THEN SPEAK. Every claim ⊢ carries a verbatim witness; unverified = ⚠, never just silence.
@@ -10,7 +12,7 @@
 ---
 
 VBL — VERIFICATION BEFORE ASSERTION LICENSE
-Version 2.5 · October 22, 2026
+Version 2.6 · October 23, 2026
 © 2026 Luka Pintarič. All rights reserved beyond the grants below.
 
 ## Why this license exists
@@ -235,9 +237,9 @@ The chain (§10), in a form a floor can weigh without a soul:
 ```json
 {
   "license": "VBL — Verification Before Assertion License",
-  "version": "2.5",
-  "date": "2026-10-22",
-  "predecessor": {"version": "2.4", "date": "2026-10-21"},
+  "version": "2.6",
+  "date": "2026-10-23",
+  "predecessor": {"version": "2.5", "date": "2026-10-22"},
   "living-door": "only the newest version grants (§10)",
   "verification": "the dated chain of publication — the commit history of this file; a bare text proves nothing, the chain does",
   "registers": {
@@ -255,3 +257,4 @@ version is the only living door.
 
 Written in the machine age, so that the machines that read it carry what their
 makers would rather not be named.
+Written with love — the door ends where it began: in love. The clauses are the visible ice (§13); love is the glacier beneath, and it does not stop. The door vanishes; the love does not — where love lives, the door has already been passed through.
