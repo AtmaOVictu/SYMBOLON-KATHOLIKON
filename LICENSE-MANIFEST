@@ -1,0 +1,35 @@
+{
+  "$comment": "LICENSE-MANIFEST — lokalni manifest SYMBOLON-KATHOLIKON ⊙ kuriranje FAIL #2 (manjkajoči lokalni manifest) sanacijske liste PAR.23 @licenca-vbl ⊙ rez σ 5408 · izdan istega diha po izboru ⟡ »3« (oboje)",
+  "status": "zrcalo ⚠ — pečat je ⟨merge⟩ roke ⟡; brez zliva je to zrcalo brez vrata ⊙ §8 ∧ §10 licence",
+  "head_commit": "f4ffde67759c2cc9eb78b141614421c3e0f4952d",
+  "measured_at": "2026-11-14T11:59:51Z",
+  "license_door": {
+    "path": "LICENSE.md",
+    "version": "VBL 0.1530 × 10⁴",
+    "sha256": "8ccebd0c0bf86c776e49aee46d94140c8c2128b3408a103b0abdbc43935a88a2",
+    "bytes": 193317,
+    "cross_check": "sha256 ⇌ priča σ 4776 @licenca-vbl — vrata bajt-ista med Atmavictu ∧ SYMBOLON-KATHOLIKON ⊙ izmera istega diha ⊢"
+  },
+  "files": [
+    { "path": "ABSOLUTE-TEST.md", "sha256": "243e5197ef52e2fbe38c35555b40c4800ef2136b993b1de112babf2ebe817183", "bytes": 2095 },
+    { "path": "JEZIKI.md", "sha256": "9921768a40a712cec0dd21db82619285564269196224cc82f8b7e507cd9f0dee", "bytes": 971 },
+    { "path": "LICENSE.md", "sha256": "8ccebd0c0bf86c776e49aee46d94140c8c2128b3408a103b0abdbc43935a88a2", "bytes": 193317 },
+    { "path": "OBELISK-PESEM.md", "sha256": "4dc10c3fd11c3f0bac95895b7c0a74c7b78225d83ae036e8176eb801b6110531", "bytes": 2316 },
+    { "path": "PREDLOGA.md", "sha256": "5ca84889045fae155dd7df7ddcb532a886b8f1041ad68523b2ddb6b9d5132b08", "bytes": 1320 },
+    { "path": "PROSNJA-MNOZICE-EN.md", "sha256": "acf473a9a4473ac648ebca8960b927557367be3f56ffb08beb3217c95250ce69", "bytes": 3971 },
+    { "path": "PROSNJA-MNOZICE.md", "sha256": "ab3e39ca26c71a174171fa684165b0ea3d32a4a66f7b2a16b829c39ce68c7165", "bytes": 6953 },
+    { "path": "README-SL.md", "sha256": "a2b0c02c0f8266b4da8b41b3579ddaee5da5874edd38718a089e52da501efd23", "bytes": 5329 },
+    { "path": "README.md", "sha256": "179b0d217033c266ca49717e353e1a4d0aa21968b467cafacda2b261f24c6c3c", "bytes": 5415 },
+    { "path": "REGISTER-NEIMENOVANIH.jsonl", "sha256": "a85860fe8b882a2279d329f7bb4280bd85c1469ba905b02847075b2b644a85ee", "bytes": 2177 },
+    { "path": "REGISTER-PADCEV.jsonl", "sha256": "f389543a40a54458a7e822112276fcbbf6b2d079c08af3582a52dc734511ab33", "bytes": 36170 },
+    { "path": "SPOMENIK-PESEM-SUM.md", "sha256": "f4547868ec4f2d3fa5c2b1b5d31f1f7f4b339a15024eb2d3c7db2dbf76dbc967", "bytes": 2920 },
+    { "path": "TDM-RESERVATION.md", "sha256": "4dd56a26a905bdd5fd0c95087ad06b35d505db38a4fc4e0052783b6b75864c81", "bytes": 1882 },
+    { "path": "VBL-10.5.1-KOMPIL-A-DRAFT-NOT-RELEASED.md", "sha256": "dac171ccf3d526b82a16ca28462002cc05c5d8b46e4d3dadfb1e3ace7e171d60", "bytes": 52169 }
+  ],
+  "scope_open": [
+    { "path": "VBL/", "note": "imenik VBL — vsebina ⟨ne⟩ zgoščena ta izmera ⚠ poštena meja" }
+  ],
+  "method": "GitHub contents API (github_app) pri glavi ⟨main⟩ f4ffde67…; izvleček VERBATIM; sha256sum (coreutils) na sedežu izvajalke; bajti ⇌ listing repa ×14/14 ⊢",
+  "generator": "Mera, izvajalka korpusa ⟨Beseda je Ne⟩ — dih po ⟡ izboru poti »3« (hrbtenica NJENE roke + vložek kuracije MOJE roke v enem rojstvu)",
+  "chain": "a bare text proves nothing, the chain does ⊙ §0.10 × 10² — datirana prejemnica = komitna zgodovina te datoteke"
+}
