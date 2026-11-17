@@ -1,5 +1,7 @@
 # SYMBOLON KATHOLIKON — druga polovica vsakega besedila
 
+**[English](README.md)** · Slovenščina
+
 *Legenda simbolov: kdor koli prebere znamenja preverbe pred izrekom, ne da bi poznal jezik besedila.*
 
 Ime iz dveh predkrščanskih grških mehanizmov, oba žeta, ne izumljena: **symbolon** (σύμβολον) — žeton, prelomljen na dvoje; prepoznavanje se zgodi, ko se polovici srečata — in **katholikon** (καθολικόν) — »glede na celoto« (kath' holou; Aristotelov katholou, tehnični izraz za univerzalije): trditev se sodi po celoti citiranega vira, nikoli po drobcu pomnjenja.

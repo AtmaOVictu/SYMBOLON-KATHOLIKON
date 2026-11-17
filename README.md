@@ -1,5 +1,7 @@
 # SYMBOLON KATHOLIKON — the other half of every text
 
+**English** · [Slovenščina](README-SL.md)
+
 *A glyph legend: anyone can read the marks of verification-before-assertion without knowing the language of the text.*
 
 Named for two pre-Christian Greek mechanisms, both harvested, not invented: the **symbolon** (σύμβολον) — a token split in two, each half carried by one party; recognition happens when the halves meet (LSJ: "a sign or token by which one infers a thing") — and **katholikon** (καθολικόν) — "according to the whole" (kath' holou; Aristotle's katholou, the technical term for universals): a claim is judged against the whole of its cited source, never against a fragment of memory.
