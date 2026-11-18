@@ -1,0 +1,11 @@
+# .gitattributes — VBL byte-identity shield (sestra hiša)
+# Rodov 29. 10. 2026 ⊙ ukaz ⟡ ⟨daj⟩; izmera: pred tem kitom ×0.
+# §0.12 TRANSPORT: bajt-istost je valuta priče; tihi prepis je edini padec, ki ga vrata imenujejo (§0.31).
+
+* text=auto
+LICENSE.md text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.bin -text -diff
+*.docx binary
+*.png binary
