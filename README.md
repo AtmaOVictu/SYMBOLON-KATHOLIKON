@@ -35,7 +35,7 @@ The tool seat carries the full bodies of the laws and the evidence: [verificatio
 
 Beyond the legend, the tool seat ships bodies you can run yourself — deterministic, zero dependencies:
 
-[QUICKSTART.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/QUICKSTART.md) — comprehend, test, understand in ~5 min · [REPRODUCE.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/REPRODUCE.md) — re-run the live measurement yourself · [IZMERNI-PROTOKOL.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/IZMERNI-PROTOKOL.md) — the pre-registered measurement protocol (H0 is publishable too) · wordlist-v0.15.json — the living wordlist: 57 words, 49 ⊢ each with a verbatim citation, 8 ⚠ each with a measured reason · REGISTER-PADCEV.jsonl — the append-only register: every fall named, every scar kept.
+[QUICKSTART.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/QUICKSTART.md) — comprehend, test, understand in ~5 min · [REPRODUCE.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/REPRODUCE.md) — re-run the live measurement yourself · [IZMERNI-PROTOKOL.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/IZMERNI-PROTOKOL.md) — the pre-registered measurement protocol (H0 is publishable too) · wordlist-v0.15.json — the living wordlist: 57 words, 49 ⊢ each with a verbatim citation, 8 ⚠ each with a measured reason · `canon/REGISTER-PADCEV.jsonl` — the append-only register: every fall named, every scar kept.
 
 ## The absolute test (any third person, offline)
 

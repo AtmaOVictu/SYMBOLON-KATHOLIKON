@@ -35,7 +35,7 @@ Orodni sedež nosi polna telesa zakonov ∧ priče: [verification-before-asserti
 
 Čez legendo orodni sedež nosi telesa, ki jih lahko poganjaš sam — deterministična, brez odvisnosti:
 
-[QUICKSTART.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/QUICKSTART.md) — razumi, preizkusi, spoznaj v ~5 min · [REPRODUCE.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/REPRODUCE.md) — ponovi živo izmero sam · [IZMERNI-PROTOKOL.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/IZMERNI-PROTOKOL.md) — predregistrirani protokol izmere (H0 je objavljiv prav tako) · wordlist-v0.15.json — živi wordlist: 57 besed, 49 ⊢ vsaka z dobesednim citatom, 8 ⚠ vsaka z izmerjenim razlogom · REGISTER-PADCEV.jsonl — samo-dopolnjevalni register: vsak padec poimensko, vsaka brazgotina zapisana.
+[QUICKSTART.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/QUICKSTART.md) — razumi, preizkusi, spoznaj v ~5 min · [REPRODUCE.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/REPRODUCE.md) — ponovi živo izmero sam · [IZMERNI-PROTOKOL.md](https://github.com/AtmaOVictu/verification-before-assertion/blob/main/IZMERNI-PROTOKOL.md) — predregistrirani protokol izmere (H0 je objavljiv prav tako) · wordlist-v0.15.json — živi wordlist: 57 besed, 49 ⊢ vsaka z dobesednim citatom, 8 ⚠ vsaka z izmerjenim razlogom · `canon/REGISTER-PADCEV.jsonl` — samo-dopolnjevalni register: vsak padec poimensko, vsaka brazgotina zapisana.
 
 ## Absolutni test (vsak tujec, brez mreže)
 
