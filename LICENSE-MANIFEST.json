@@ -4,19 +4,19 @@
   "items": [
     {
       "path": "LICENSE-SEED.md",
-      "size_bytes": 844,
-      "sha256": "C3093EC349D532D8B46F9BADD6A925D7711D4E1A24EA5D41747A47E1EDCF7F16",
-      "note": "seme kanonske LICENSE.md 0.1610 × 10⁴ — grant nosi samo najnovejša verzija (§0.10 × 10²)"
+      "size_bytes": 855,
+      "sha256": "55D1F321DDD559F49E5C86E62CC382C89A989D59D2B3AABEA5ACA119EC04567F",
+      "note": "seme kanonske LICENSE.md 0.1620 × 10⁴ — grant nosi samo najnovejša verzija (§0.10 × 10²)"
     }
   ],
   "canonical": {
     "repo": "Atmavictu",
     "path": "LICENSE.md",
-    "version": "0.1610 × 10⁴",
-    "sha256": "F896787CD165680F55ADC51CB4099A8FE99047F368428785776C7F233802A74F",
+    "version": "0.1620 × 10⁴",
+    "sha256": "D0CE315DABF0947FAFA9AC6A40B12260A8439C9827AD58B1D8A88F9C2AEF1461",
     "url": "https://github.com/AtmaOVictu/Atmavictu/blob/main/LICENSE.md"
   },
   "manifest_self": "excluded by name (§0a) — a file cannot contain its own hash",
   "governs": "where this manifest and LICENSE-SEED.md disagree, LICENSE-SEED.md governs",
-  "issued_at": "2026-11-18T04:34:33.496Z"
+  "issued_at": "2026-11-18T19:53:25Z"
 }
