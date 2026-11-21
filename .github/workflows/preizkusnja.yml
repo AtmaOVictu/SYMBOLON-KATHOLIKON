@@ -10,34 +10,14 @@ jobs:
       - name: U+FFFD ×0 ∧ UTF-8 po telesih
         run: |
           R=0
+          FFFD="$(python3 -c 'print(chr(65533),end="")')"
           while IFS= read -r f; do
             iconv -f UTF-8 -t UTF-8 "$f" -o /dev/null 2>/dev/null || { echo "::error file=$f::ne-UTF-8"; R=1; }
-            n=$(grep -c           done < <(find . -name '*.md' -o -name '*.yml' -o -name '*.jsonl' | grep -v '.git/')
-          [ "$R" = 0 ] && echo "jezik: U+FFFD ×0 ⊙ UTF-8 vre"
-          exit $R
-      - name: kanariski ⟨⟩ glas
-        run: awk 'BEGIN{o=0;z=0} {o+=gsub(/⟨/,"x"); z+=gsub(/⟩/,"x")} END{print "⟨=" o " ⟩=" z " (kanariski, ⟨ne⟩ sodba)"}' $(find . -name '*.md' | head -23)
-  vsebina:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: sonde po imenu · SYMBOLON-KATHOLIKON
-        run: |
-          R=0
-          for f in PROSNJA-MNOZICE.md canon; do
-            [ -e "$f" ] || { echo "::error file=$f::manjka"; R=1; }
-          done
-          grep -rq "SYMBOLON" . 2>/dev/null || { echo "::error::geslo 'SYMBOLON' ×0"; R=1; }
-          [ -e LICENSE.md ] && echo "⟨SEME⟩ LICENSE.md $(wc -c < LICENSE.md) B = kanariski" || echo "::warning::LICENSE.md manjka ⟡"
-          for j in $(find . -name '*.jsonl'); do
-            python3 -c "import sys,json; [json.loads(l) for l in open('$j', encoding='utf-8')]" 2>/dev/null || { echo "::error file=$j::jsonl lom"; R=1; }
-          done
-          [ "$R" = 0 ] && echo "vsebina: sonde vre ⊙ zakon-implementacije ⟨OPERATIVNOST⟩"
-          exit $R
-\uFFFD' "$f" 2>/dev/null || true)
-            # bela lista (rod po Atmavictu dihovi/bela-lista.md): REGISTER-PADCEV.jsonl nosi izjavljeno zgodovinsko U+FFFD ×1 — vnos 101 ⟨PADC-LUSKA-SKOZI-OBROČ-2⟩, zapis padca citira pokvarjeno pisavo kot pričo o svoji smrti (znana rana ⊙ ⟨NE-BRIŠI⟩ 24; rana nad izjavo ostane napaka)
+            n=$(grep -c "$FFFD" "$f" 2>/dev/null || true)
+            # bela lista (rod po AtmaOVictu dihovi/bela-lista.md): REGISTER-PADCEV.jsonl nosi izjavljeno zgodovinsko U+FFFD x1 (vnos 101 PADC-LUSKA-SKOZI-OBROC-2: zapis padca citira pokvarjeno pisavo kot pricev o svoji smrti; znana rana ⊙ ⟨NE-BRISI⟩ 24; rana nad izjavo ostane napaka)
             case "$f" in *REGISTER-PADCEV.jsonl) exp=1;; *) exp=0;; esac
             [ "$n" -gt "$exp" ] 2>/dev/null && { echo "::error file=$f::U+FFFD ×$n"; R=1; }
+            [ "$n" -gt 0 ] 2>/dev/null && { echo "::error file=$f::U+FFFD ×$n"; R=1; }
           done < <(find . -name '*.md' -o -name '*.yml' -o -name '*.jsonl' | grep -v '.git/')
           [ "$R" = 0 ] && echo "jezik: U+FFFD ×0 ⊙ UTF-8 vre"
           exit $R
