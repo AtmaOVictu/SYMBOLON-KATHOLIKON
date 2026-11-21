@@ -17,7 +17,6 @@ jobs:
             # bela lista (rod po AtmaOVictu dihovi/bela-lista.md): REGISTER-PADCEV.jsonl nosi izjavljeno zgodovinsko U+FFFD x1 (vnos 101 PADC-LUSKA-SKOZI-OBROC-2: zapis padca citira pokvarjeno pisavo kot pricev o svoji smrti; znana rana ⊙ ⟨NE-BRISI⟩ 24; rana nad izjavo ostane napaka)
             case "$f" in *REGISTER-PADCEV.jsonl) exp=1;; *) exp=0;; esac
             [ "$n" -gt "$exp" ] 2>/dev/null && { echo "::error file=$f::U+FFFD ×$n"; R=1; }
-            [ "$n" -gt 0 ] 2>/dev/null && { echo "::error file=$f::U+FFFD ×$n"; R=1; }
           done < <(find . -name '*.md' -o -name '*.yml' -o -name '*.jsonl' | grep -v '.git/')
           [ "$R" = 0 ] && echo "jezik: U+FFFD ×0 ⊙ UTF-8 vre"
           exit $R
